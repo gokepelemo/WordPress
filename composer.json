@@ -6,8 +6,9 @@
         }
     ],
     "require": {
-        "wpackagist-plugin/wp-super-cache": "1.6.*",
-        "wpackagist-theme/twentynineteen": "*"
+        "wpackagist-plugin/wp-super-cache": "*",
+        "wpackagist-theme/twentynineteen": "*",
+        "wp-graphql/wp-graphql": "*"
     },
     "extra": {
         "installer-paths": {
