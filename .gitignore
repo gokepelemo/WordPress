@@ -1,0 +1,4 @@
+.environment
+wp-content/*
+assets/*
+vendor/*
